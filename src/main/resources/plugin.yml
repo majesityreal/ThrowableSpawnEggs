@@ -1,0 +1,11 @@
+main: throwableSpawnEggs.Main
+name: ThrowableSpawnEggs
+version: 1.0
+api-version: 1.13
+author: Majesity
+description: Makes spawn eggs throwable
+commands:
+permissions:
+    tse.use:
+      description: Allows one to throw a spawn egg
+      default: true

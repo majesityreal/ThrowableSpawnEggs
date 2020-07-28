@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="spigot-api-1.16.1-R0.1-SNAPSHOT-shaded">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/spigotmc/spigot-api/1.16.1-R0.1-SNAPSHOT/spigot-api-1.16.1-R0.1-SNAPSHOT-shaded.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Minecraft Server/Stuff to copy/spigot-api-1.15.2-R0.1-SNAPSHOT-shaded.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

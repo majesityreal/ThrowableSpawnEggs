@@ -1,0 +1,72 @@
+# This controls which mobs can be spawned with throwable spawn eggs
+# set to false if you don't want that spawn egg to be throwable
+BAT: true
+BEE: true
+BLAZE: true
+CAT: true
+CAVE_SPIDER: true
+CHICKEN: true
+COD: true
+COW: true
+CREEPER: true
+DOLPHIN: true
+DONKEY: true
+DROWNED: true
+ELDER_GUARDIAN: true
+ENDERMAN: true
+ENDERMITE: true
+EVOKER: true
+FOX: true
+GHAST: true
+GUARDIAN: true
+HOGLIN: true
+HORSE: true
+HUSK: true
+LLAMA: true
+MAGMA_CUBE: true
+MUSHROOM_COW: true
+MULE: true
+OCELOT: true
+PANDA: true
+PARROT: true
+PHANTOM: true
+PIG: true
+PIGLIN: true
+PILLAGER: true
+POLAR_BEAR: true
+PUFFERFISH: true
+RABBIT: true
+RAVAGER: true
+SALMON: true
+SHEEP: true
+SHULKER: true
+SILVERFISH: true
+SKELETON_HORSE: true
+SKELETON: true
+SLIME: true
+SPIDER: true
+SQUID: true
+STRAY: true
+STRIDER: true
+TRADER_LLAMA: true
+TROPICAL_FISH: true
+TURTLE: true
+VEX: true
+VILLAGER: true
+VINDICATOR: true
+WANDERING_TRADER: true
+WITCH: true
+WITHER_SKELETON: true
+WOLF: true
+ZOGLIN: true
+ZOMBIE_HORSE: true
+ZOMBIE: true
+ZOMBIE_VILLAGER: true
+ZOMBIFIED_PIGLIN: true
+
+# Sets whether entities spawned by throwable eggs have the player's name
+use player names: false
+
+# Sets whether hostile mobs will attack the person who spawned them 
+# (if this is set to false, requires 'use player names' to be set to true)
+entities target owner: true

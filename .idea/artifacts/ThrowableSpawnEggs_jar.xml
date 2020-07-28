@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ThrowableSpawnEggs:jar">
+    <output-path>$PROJECT_DIR$/..</output-path>
+    <root id="archive" name="ThrowableSpawnEggs.jar">
+      <element id="module-output" name="ThrowableSpawnEggs" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/spigotmc/spigot-api/1.16.1-R0.1-SNAPSHOT/spigot-api-1.16.1-R0.1-SNAPSHOT-shaded.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
