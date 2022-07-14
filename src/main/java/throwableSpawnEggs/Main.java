@@ -20,9 +20,9 @@ public class Main extends JavaPlugin {
 	@Override
 	public void onEnable() {
 		 String version = Bukkit.getBukkitVersion().split("-")[0];
-		if ("1.16.1".equals(version)) {
+		if (version.matches("1\\.16(\\.\\d*)?")) {
 			wrapper = new LTE1_16(this);
-		} else if ("1.15.2".equals(version)) {
+		} else if (version.matches("1\\.15(\\.\\d*)?")) {
 			wrapper = new LTE1_15(this);
 		} else {
 			getLogger().severe("Unsupported version");
